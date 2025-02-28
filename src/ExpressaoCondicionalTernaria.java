@@ -16,7 +16,7 @@ public class ExpressaoCondicionalTernaria {
     }
 }
 
-// O código abaixo, seria o padrão estudado até o momento, utilizando if-else. Veja como o código acima foi simplificado drasticamente, tendo o mesmo
+// O código abaixo, seria o padrão estudado até o momento, utilizando if-else. Veja como o código acima foi simplificado drasticamente, tendo o mesmo resultado.
 
 /*
     double preco = 34.5;
