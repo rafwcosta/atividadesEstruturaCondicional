@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Concatenacao {
+public class concatenacao {
     @SuppressWarnings("unused")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
