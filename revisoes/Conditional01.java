@@ -3,7 +3,7 @@ package revisoes;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Condicional01 {
+public class Conditional01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
